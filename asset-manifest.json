@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/dss-attendance/static/css/main.16b329c7.css",
+    "main.js": "/dss-attendance/static/js/main.130a4b04.js",
+    "static/js/787.940aa61f.chunk.js": "/dss-attendance/static/js/787.940aa61f.chunk.js",
+    "static/media/attendance.png": "/dss-attendance/static/media/attendance.457e024a3e1c22095c92.png",
+    "static/media/home.png": "/dss-attendance/static/media/home.83efb8469590cb27f7bb.png",
+    "static/media/events.png": "/dss-attendance/static/media/events.a71bc098c06f0531ec99.png",
+    "static/media/studentLogin.png": "/dss-attendance/static/media/studentLogin.43f14699945914a5479a.png",
+    "static/media/three.jpeg": "/dss-attendance/static/media/three.2e474ec8cb9dd50fe214.jpeg",
+    "static/media/back.png": "/dss-attendance/static/media/back.af5b79bc47885a9230c9.png",
+    "static/media/one.jpeg": "/dss-attendance/static/media/one.1b72fc4f509460096ef2.jpeg",
+    "static/media/two.jpeg": "/dss-attendance/static/media/two.f289e7a4a49b70d5842e.jpeg",
+    "static/media/project.png": "/dss-attendance/static/media/project.8404cd40a431372e89ea.png",
+    "static/media/announcements.png": "/dss-attendance/static/media/announcements.590b21a5ea026a3d3e91.png",
+    "static/media/four.jpeg": "/dss-attendance/static/media/four.7d91335f59ce74472250.jpeg",
+    "static/media/leftbox.jpg": "/dss-attendance/static/media/leftbox.f40f09532b53511159ed.jpg",
+    "static/media/user.png": "/dss-attendance/static/media/user.544bcc84075369b5a764.png",
+    "static/media/perform.png": "/dss-attendance/static/media/perform.bc4fb42cea033da3d905.png",
+    "static/media/Admin.png": "/dss-attendance/static/media/Admin.2289f069cd272a64d370.png",
+    "static/media/student.png": "/dss-attendance/static/media/student.ed58730c896c0d80da6d.png",
+    "static/media/independance.jpg": "/dss-attendance/static/media/independance.89b691676cf7ac13e5fe.jpg",
+    "static/media/logo.jpeg": "/dss-attendance/static/media/logo.f06f97ad8c242f191797.jpeg",
+    "static/media/logo.jpg": "/dss-attendance/static/media/logo.f06f97ad8c242f191797.jpg",
+    "static/media/hackathon.jpg": "/dss-attendance/static/media/hackathon.e7149ea3cd367caff956.jpg",
+    "index.html": "/dss-attendance/index.html",
+    "main.16b329c7.css.map": "/dss-attendance/static/css/main.16b329c7.css.map",
+    "main.130a4b04.js.map": "/dss-attendance/static/js/main.130a4b04.js.map",
+    "787.940aa61f.chunk.js.map": "/dss-attendance/static/js/787.940aa61f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.16b329c7.css",
+    "static/js/main.130a4b04.js"
+  ]
+}
